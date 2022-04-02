@@ -106,6 +106,7 @@ h1 {
     left: 10%;
     top: 60px;
     font-size: 33pt;
+    color: white;
 }
 
 .sub-title{

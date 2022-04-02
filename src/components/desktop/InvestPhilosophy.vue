@@ -57,6 +57,7 @@ h1 {
     text-align: left;
     top: 70px;
     background-color: rgb(42, 152, 213);
+    color: white;
     display: inline;    
     padding: 12px;
     font-size: 25pt;

@@ -4,6 +4,7 @@
     <StrategyView />
     <StrategistReturns />
     <InvestmentPhilosophy />
+    <OurTeam />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import HomeView from './components/desktop/Home'
 import StrategyView from './components/desktop/StrategyView'
 import StrategistReturns from './components/desktop/StrategistReturns'
 import InvestmentPhilosophy from './components/desktop/InvestPhilosophy'
+import OurTeam from './components/desktop/OurTeam'
 
 export default {
   name: 'App',
@@ -19,7 +21,8 @@ export default {
     HomeView,
     StrategyView,
     StrategistReturns,
-    InvestmentPhilosophy
+    InvestmentPhilosophy,
+    OurTeam,
   }
 }
 </script>
